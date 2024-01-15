@@ -1,4 +1,4 @@
-module githubcom/879229629/order_server
+module github/com/879229629/order_server
 
 go 1.19
 
